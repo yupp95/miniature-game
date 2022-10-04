@@ -6,15 +6,12 @@
 **🤔canvas**
 <br>
 - HTML5의 <canvas>엘리먼트는 단지 그래픽들을 위한 컨테이너이다.
-<br>
 - 그래픽을 그리기 위해 자바스크립트를 사용해야 한다.
-<br>
 - IE8은 지원이 안됨.
 <br>
 <br>
 <br>
 **📚Tech Stack📚**
-<br>
 <br>
 🎇language🎇
 <br>
