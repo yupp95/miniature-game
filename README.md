@@ -1,7 +1,7 @@
-# miniature-game
+## miniature-game
 웹브라우져로 미니 게임 만들기🎮
 
-📚<p style = "font-size: 10px; font-weight: bolder;">Tech Stack</p>📚
+**📚Tech Stack📚**
 <br>
 🎇language🎇
 
