@@ -3,7 +3,7 @@
 <br>
 <br>
 
-###📚Tech Stack📚<br/><br/>
+📚###Tech Stack📚<br/><br/>
   🎇language🎇
 <div>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
